@@ -137,6 +137,8 @@ Code Frameworks, APIs and applications for real-time audio-vision and creative c
 ### Free Tools
 ([Go to top](#awesome-intermedia---))
 
+Tools you can use for free, but usually not for profit.
+
 ---
 
 #### General
@@ -192,6 +194,7 @@ Code Frameworks, APIs and applications for real-time audio-vision and creative c
 
 ### Paid Tools
 ([Go to top](#awesome-intermedia---))
+Tools you have to pay for, especially if you are short on time.
 
 ---
 
