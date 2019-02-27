@@ -1,60 +1,35 @@
 # Awesome Edinburgh Audio-Vision
+###### by ECA Digital Development
 A curated list of real-time audio-vision resources.
 
-by ECA Digital Development
 ----
 
 ## Table of Contents
-* [Video](#eventsmeetups)
-  * [Programmes](#programmes)  
 * [Audio](#audio)
+* [Visual](#visual)
+  * [Programmes](#programmes)  
 * [Communities](#ommunities)  
 * [Tools](#tools)
-  * [Free]
-    * [General]
-    * [Visual]
-  * [Paid]
-    * [General]
-    * [Visual]
-  * [DMX]
-  * [Video Walls]
-  * Automatic Calibration
-* [Resources and Documentation]
-  * [Visual]
-    * [Processing]
-    * [MaxMSP + Jitter]
-    * [vvvv]
-    * [OpenFrameworks]
-    * [ECA]
-    
+  * [Free](#free)
+    * [General](#general)
+    * [Visual](#visual-1)
+  * [Paid](#paid)
+    * [General](#general-1)
+    * [Visual](visual-1)
+  * [DMX](#dmx)
+  * [Video Walls](#video-walls)
+  * [Automatic Calibration](#automatic-calibration)
+* [Resources and Documentation](#resources-and-documentation)
+  * [Visual](#visual-3)
+    * [Processing](#processing)
+    * [MaxMSP + Jitter](#maxmsp-+-jitter)
+    * [vvvv](#vvvv)
+    * [OpenFrameworks](#openframeworks)
+    * [ECA](#eca)
+
 ----
 
-## Visual
-
-### Programmes
-([Go to top](#awesome-intermedia---))
-List of programmes at Edinburgh College of Art that cover digital media and design.
-
-#### Postgraduate
-* [Design & Digital Media](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2019&id=37)
-
-Digital technology applied to design, including its social, cultural and philosophical implications.
-
-### Courses
-([Go to top](#awesome-intermedia---))
-List of courses to take as electives or audit.
-
-  * [Interactive Visual Design](www.drps.ed.ac.uk/18-19/dpt/cxarch11251.htm)
-
-  Covering both Processing and Unity as well as the fundamentals of creative coding
-
-  * [Digital Media Studio Project](www.drps.ed.ac.uk/18-19/dpt/cxarch11006.htm)
-
-  An opportunity to make skilful use of digital tools and techniques in the context of a group design project.
-
----
-
-## Audio
+## Audio
 
 ### Programmes
 ([Go to top](#awesome-intermedia---))
@@ -65,6 +40,8 @@ List of programmes at Edinburgh College of Art that cover audio and signal proce
   * [Sound Design](https://www.eca.ed.ac.uk/study/postgraduate/sound-design-msc)
 
   Interdisciplinary taught Masters programme for sound design across a range of musical and artistic practice.
+
+---
 
 ### Courses
 ([Go to top](#awesome-intermedia---))
@@ -82,12 +59,42 @@ List of courses to take as electives or audit focused on Audio and Digital Signa
   * [Real-time Computer Systems for Music](www.drps.ed.ac.uk/18-19/dpt/cxmusi10063.htm)
 
   introduction to the Max/MSP real-time computer music environment
+
+----
+
+## Visual
+
+### Programmes
+([Go to top](#awesome-intermedia---))
+List of programmes at Edinburgh College of Art that cover digital media and design.
+
+#### Postgraduate
+* [Design & Digital Media](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2019&id=37)
+
+Digital technology applied to design, including its social, cultural and philosophical implications.
+
 ---
+
+### Courses
+([Go to top](#awesome-intermedia---))
+List of courses to take as electives or audit.
+
+  * [Interactive Visual Design](www.drps.ed.ac.uk/18-19/dpt/cxarch11251.htm)
+
+  Covering both Processing and Unity as well as the fundamentals of creative coding
+
+  * [Digital Media Studio Project](www.drps.ed.ac.uk/18-19/dpt/cxarch11006.htm)
+
+  An opportunity to make skilful use of digital tools and techniques in the context of a group design project.
+
+----
 
 ### Communities
 ([Go to top](#awesome-intermedia---))
 
 Communities around , the University, Edinburgh and beyond that support creative digital design.
+
+---
 
 #### University Edinburgh
 
@@ -99,6 +106,7 @@ Communities around , the University, Edinburgh and beyond that support creative 
 
   University of Edinburgh Art gallery for contemporary art. Keep an eye out for video artist work and installations.
 
+---
 
 #### City of Edinburgh
 ([Go to top](#awesome-intermedia---))
@@ -115,7 +123,7 @@ Communities around , the University, Edinburgh and beyond that support creative 
 
   Edinburgh based Hackerspace: shared spaces for people who mess around with technology for fun
 
----
+----
 
 ## Tools
 ([Go to top](#awesome-intermedia---))
@@ -123,6 +131,9 @@ Code Frameworks, APIs and applications for real-time audio-vision and creative c
 
 ### Free Tools
 ([Go to top](#awesome-intermedia---))
+
+---
+
 #### General
  Tools that are relevant for a number of use cases
 
@@ -138,6 +149,7 @@ Code Frameworks, APIs and applications for real-time audio-vision and creative c
 
   Hybrid visual/textual live-programming environment for audio-visual project prototyping and development.
 
+---
 
 ### Visual
   * [Processing](processing.org/)
@@ -171,8 +183,13 @@ Code Frameworks, APIs and applications for real-time audio-vision and creative c
 
   Open source video mapping software
 
+----
+
 ### Paid Tools
 ([Go to top](#awesome-intermedia---))
+
+---
+
 #### General
 
   * [Max/MSP + Jitter](https://cycling74.com) [$99 w/ Education discount]
@@ -182,6 +199,8 @@ Code Frameworks, APIs and applications for real-time audio-vision and creative c
   * [Millumin](https://www.millumin.com/v3/index.php) [4-months license for 39€ w/ Education discount]
 
   Integrated Theater / Dance / Videomapping / Interactive installation project tool
+
+---
 
 #### Visual
 
@@ -201,6 +220,8 @@ Code Frameworks, APIs and applications for real-time audio-vision and creative c
 
   Node based video composition tool
 
+----
+
 ### DMX
 ([Go to top](#awesome-intermedia---))
   * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/)
@@ -215,11 +236,13 @@ Code Frameworks, APIs and applications for real-time audio-vision and creative c
 
   There is an Arduino shield for everything and DMX is no exception. Also look into the [Arduino DMX Library](playground.arduino.cc/Learning/DMX)
 
+----
+
 ### Video Wall
 
   * [PiWall](www.piwall.co.uk)
 
-  Raspberry Pi based software to turn a number of Raspberry Pis into a video wall.
+  Software to turn a number of Raspberry Pis into a video wall.
 
   * [Most Pixels Ever](https://github.com/shiffman/Most-Pixels-Ever-Processing)
 
@@ -233,6 +256,8 @@ Code Frameworks, APIs and applications for real-time audio-vision and creative c
 
   Open cloud-based platform for digital signage
 
+---
+
 ### Automatic Calibration
 
 * [TightLight](createdigitalmotion.com/2013/08/tightlight-automatic-3d-mapping-for-anything-touchdesigner-arduino/)
@@ -243,7 +268,7 @@ Project using Arduino and Derivative TouchDesigner for projection mapping
 
 Instructable about capturing images that can be decoded into a 3D point cloud using a Processing application
 
----
+----
 
 ## Resources and Documentation
 Links to helpful repository or API documentation relevant to each field
@@ -257,6 +282,8 @@ Links to helpful repository or API documentation relevant to each field
   * [Projection Mapping Quickstart in Processing](https://github.com/bsplt/Projection-Mapping-Quickstart-in-Processing)
 
   GitHub repository with a tool to quickly start projection mapping
+
+---
 
 #### MaxMSP + Jitter
 
@@ -272,12 +299,18 @@ Links to helpful repository or API documentation relevant to each field
 
   Jitter Object that will come in handy if keystoning.
 
+---
+
 #### vvvv
   * [How to project on 3D Geometry](vvvv.org/documentation/how-to-project-on-3d-geometry)
+
+---
 
 #### OpenFrameworks
   * [Mapamok](https://github.com/YCAMInterlab/ProCamToolkit/wiki/mapamok-(English))
   * [Ycam ProCam Toolkit](createdigitalmotion.com/2012/03/projector-and-camera-a-little-closer-new-magical-mapping-tools-3d-scanning-and-more/)
+
+---
 
 #### ECA
   * [ECA Video Projection Git Repository](https://github.com/Edinburgh-College-of-Art/Video-Projection)
