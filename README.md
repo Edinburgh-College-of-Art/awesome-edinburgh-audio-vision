@@ -6,16 +6,21 @@ A curated list of real-time audio-vision resources.
 
 ## Table of Contents
 * [Audio](#audio)
+  * [Programmes](#programmes)
+  * [Courses](#courses)  
 * [Visual](#visual)
-  * [Programmes](#programmes)  
-* [Communities](#ommunities)  
+  * [Programmes](#programmes-1)
+  * [Courses](#courses-1)  
+* [Communities](#communities)
+ * [University of Edinburgh](#university-of-edinburgh)
+ * [City of Edinburgh](#city-of-edinburgh)
 * [Tools](#tools)
   * [Free](#free)
     * [General](#general)
     * [Visual](#visual-1)
   * [Paid](#paid)
     * [General](#general-1)
-    * [Visual](visual-1)
+    * [Visual](visual-2)
   * [DMX](#dmx)
   * [Video Walls](#video-walls)
   * [Automatic Calibration](#automatic-calibration)
@@ -96,7 +101,7 @@ Communities around , the University, Edinburgh and beyond that support creative 
 
 ---
 
-#### University Edinburgh
+#### University of Edinburgh
 
   * [uCreate Studio](https://www.ucreatestudio.is.ed.ac.uk)
 
