@@ -97,7 +97,7 @@ List of courses to take as electives or audit.
 ### Communities
 ([Go to top](#awesome-intermedia---))
 
-Communities around , the University, Edinburgh and beyond that support creative digital design.
+Communities around the University, the City of Edinburgh and beyond that support creative digital design.
 
 ---
 
