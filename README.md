@@ -38,6 +38,7 @@ A curated list of real-time audio-vision resources.
 
 ### Programmes
 ([Go to top](#awesome-intermedia---))
+
 List of programmes at Edinburgh College of Art that cover audio and signal processing.
 
 #### Masters
@@ -71,6 +72,7 @@ List of courses to take as electives or audit focused on Audio and Digital Signa
 
 ### Programmes
 ([Go to top](#awesome-intermedia---))
+
 List of programmes at Edinburgh College of Art that cover digital media and design.
 
 #### Postgraduate
@@ -82,6 +84,7 @@ Digital technology applied to design, including its social, cultural and philoso
 
 ### Courses
 ([Go to top](#awesome-intermedia---))
+
 List of courses to take as electives or audit.
 
   * [Interactive Visual Design](www.drps.ed.ac.uk/18-19/dpt/cxarch11251.htm)
@@ -132,6 +135,7 @@ Communities around the University, the City of Edinburgh and beyond that support
 
 ## Tools
 ([Go to top](#awesome-intermedia---))
+
 Code Frameworks, APIs and applications for real-time audio-vision and creative coding.
 
 ### Free Tools
@@ -196,7 +200,6 @@ Tools you can use for free, but usually not for profit.
 ([Go to top](#awesome-intermedia---))
 Tools you have to pay for, especially if you are short on time.
 
----
 
 #### General
 
