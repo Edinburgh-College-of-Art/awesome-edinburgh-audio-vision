@@ -45,7 +45,7 @@ List of programmes at Edinburgh College of Art that cover audio and signal proce
 
   * [Sound Design](https://www.eca.ed.ac.uk/study/postgraduate/sound-design-msc)
 
-  Interdisciplinary taught Masters programme for sound design across a range of musical and artistic practice.
+    Interdisciplinary taught Masters programme for sound design across a range of musical and artistic practice.
 
 ---
 
@@ -56,15 +56,15 @@ List of courses to take as electives or audit focused on Audio and Digital Signa
 
   * [Non Real-Time Systems](www.drps.ed.ac.uk/18-19/dpt/cxmusi11019.htm)
 
-  Focused on understanding and appreciation of the advantages of non real-time systems and when to use them instead of real-time environments.
+    Focused on understanding and appreciation of the advantages of non real-time systems and when to use them instead of real-time environments.
 
   * [Real-Time Performance Strategies and Design](www.drps.ed.ac.uk/18-19/dpt/cxmusi11018.htm)
 
-  Real-time computer music programming within the Max/MSP environment.
+    Real-time computer music programming within the Max/MSP environment.
 
   * [Real-time Computer Systems for Music](www.drps.ed.ac.uk/18-19/dpt/cxmusi10063.htm)
 
-  introduction to the Max/MSP real-time computer music environment
+    An introduction to the Max/MSP real-time computer music environment
 
 ----
 
@@ -76,9 +76,10 @@ List of courses to take as electives or audit focused on Audio and Digital Signa
 List of programmes at Edinburgh College of Art that cover digital media and design.
 
 #### Postgraduate
-* [Design & Digital Media](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2019&id=37)
 
-Digital technology applied to design, including its social, cultural and philosophical implications.
+  * [Design & Digital Media](https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&edition=2019&id=37)
+
+    Digital technology applied to design, including its social, cultural and philosophical implications.
 
 ---
 
@@ -89,11 +90,11 @@ List of courses to take as electives or audit.
 
   * [Interactive Visual Design](www.drps.ed.ac.uk/18-19/dpt/cxarch11251.htm)
 
-  Covering both Processing and Unity as well as the fundamentals of creative coding
+    Covering both Processing and Unity as well as the fundamentals of creative coding
 
   * [Digital Media Studio Project](www.drps.ed.ac.uk/18-19/dpt/cxarch11006.htm)
 
-  An opportunity to make skilful use of digital tools and techniques in the context of a group design project.
+    An opportunity to make skilful use of digital tools and techniques in the context of a group design project.
 
 ----
 
@@ -108,11 +109,11 @@ Communities around the University, the City of Edinburgh and beyond that support
 
   * [uCreate Studio](https://www.ucreatestudio.is.ed.ac.uk)
 
-  University of Edinburgh Maker Space offering equipment, advice, training, and support to help you make (almost) anything.
+    University of Edinburgh Maker Space offering equipment, advice, training, and support to help you make (almost) anything.
 
   * [Talbot Rice Gallery](https://www.ed.ac.uk/talbot-rice)
 
-  University of Edinburgh Art gallery for contemporary art. Keep an eye out for video artist work and installations.
+    University of Edinburgh Art gallery for contemporary art. Keep an eye out for video artist work and installations.
 
 ---
 
@@ -121,15 +122,15 @@ Communities around the University, the City of Edinburgh and beyond that support
 
   * [Creative Edinburgh](https://www.creative-edinburgh.com)
 
-  Network for creatives in Edinburgh
+    Network for creatives in Edinburgh
 
   * [Ladies Wine and Design Edinburgh](http://ladieswinedesign.com/edinburgh)
 
-  Monthly salon night in Edinburgh for designers identifying as female with occasional crossover coding events.
+    Monthly salon night in Edinburgh for designers identifying as female with occasional crossover coding events.
 
   * [Edinburgh Hacklab](https://edinburghhacklab.com)
 
-  Edinburgh based Hackerspace: shared spaces for people who mess around with technology for fun
+    Edinburgh based Hackerspace: shared spaces for people who mess around with technology for fun
 
 ----
 
@@ -146,58 +147,60 @@ Tools you can use for free, but usually not for profit.
 ---
 
 #### General
- Tools that are relevant for a number of use cases
+   Tools that are relevant for a number of use cases
 
   * [Openframeworks](openframeworks.cc/)
 
-  Open source C++ toolkit designed to assist the creative process by providing a simple and intuitive framework for experimentation.    
+    Open source C++ toolkit designed to assist the creative process by providing a simple and intuitive framework for experimentation.    
 
   * [Cinder](libcinder.org/)
 
-  Open source library for professional-quality creative coding in C++.  
+    Open source library for professional-quality creative coding in C++.  
 
   * [vvvv](vvvv.org/)
 
-  Hybrid visual/textual live-programming environment for audio-visual project prototyping and development.
+    Hybrid visual/textual live-programming environment for audio-visual project prototyping and development.
 
 ---
 
 ### Visual
   * [Processing](processing.org/)
 
-  Processing is a Java based framework for learning how to code within the context of the visual arts
+    Processing is a Java based framework for learning how to code within the context of the visual arts
 
   * [Syphon](syphon.v002.info/)  
 
-  Open source Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime
+    Open source Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime
 
   * [Touch Designer](www.derivative.ca/)
 
-  Visual development platform for realtime projects and rich user experiences
+    Visual development platform for realtime projects and rich user experiences
+
   * [Hydra](https://hydra-editor-v1.glitch.me)
 
-  Live coding networked visuals in the browser
+    Live coding networked visuals in the browser
 
   * [Structured-light](https://github.com/jakobwilm/slstudio)
 
-  A comprehensive software suite for capturing and reconstructing 3D scenes with a camera-projector pair
+    A comprehensive software suite for capturing and reconstructing 3D scenes with a camera-projector pair
 
   * [Painting With Light](pwl.bigfug.com/)
 
-  Video mapping tool that enables artists of any technical ability to paint with static and moving images through any video projector onto 3D physical objects.
+    Video mapping tool that enables artists of any technical ability to paint with static and moving images through any video projector onto 3D physical objects.
 
   * [VPT](hcgilje.wordpress.com/vpt/)
 
-  Multipurpose realtime projection software tool for Mac and Windows
+    Multipurpose realtime projection software tool for Mac and Windows
 
   * [MapMap](https://github.com/mapmapteam/mapmap)
 
-  Open source video mapping software
+    Open source video mapping software
 
 ----
 
 ### Paid Tools
 ([Go to top](#awesome-intermedia---))
+
 Tools you have to pay for, especially if you are short on time.
 
 
@@ -205,11 +208,11 @@ Tools you have to pay for, especially if you are short on time.
 
   * [Max/MSP + Jitter](https://cycling74.com) [$99 w/ Education discount]
 
-  Visual programming language for artists, educators, and researchers working with audio, visual media, and physical computing.
+    Visual programming language for artists, educators, and researchers working with audio, visual media, and physical computing.
 
   * [Millumin](https://www.millumin.com/v3/index.php) [4-months license for 39€ w/ Education discount]
 
-  Integrated Theater / Dance / Videomapping / Interactive installation project tool
+    Integrated Theater / Dance / Videomapping / Interactive installation project tool
 
 ---
 
@@ -217,19 +220,19 @@ Tools you have to pay for, especially if you are short on time.
 
   * [Vdmx](vidvox.net/) [$199 w/ Education discount]
 
-  Mac Video DJ software
+    MacOS Video DJ software
 
   * [madmapper](www.madmapper.com/) [35€ Rent, 249€ +tax w/ Education discount]
 
-  Video and light mapping tool
+    Video and light mapping tool
 
   * [Dynamapper](dynamapper.net/) [$4.99]
 
-  Projection mapping tool
+    Projection mapping tool
 
   * [SPARCK](tecartlab.com/licenses/) [6 Months Free: €125 per year]
 
-  Node based video composition tool
+    Node based video composition tool
 
 ----
 
@@ -237,15 +240,15 @@ Tools you have to pay for, especially if you are short on time.
 ([Go to top](#awesome-intermedia---))
   * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/)
 
-  Framework for lighting control information
+    Framework for lighting control information
 
   * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/)
 
-  Free and cross-platform software to control DMX
+    Free and cross-platform software to control DMX
 
   * [Arduino DMX Shield](https://playground.arduino.cc/DMX/DMXShield)
 
-  There is an Arduino shield for everything and DMX is no exception. Also look into the [Arduino DMX Library](playground.arduino.cc/Learning/DMX)
+    There is an Arduino shield for everything and DMX is no exception. Also look into the [Arduino DMX Library](playground.arduino.cc/Learning/DMX)
 
 ----
 
@@ -253,31 +256,31 @@ Tools you have to pay for, especially if you are short on time.
 
   * [PiWall](www.piwall.co.uk)
 
-  Software to turn a number of Raspberry Pis into a video wall.
+    Software to turn a number of Raspberry Pis into a video wall.
 
   * [Most Pixels Ever](https://github.com/shiffman/Most-Pixels-Ever-Processing)
 
-  Processing and OpenFrameworks Library for spanning graphics applications across multiple screens.
+    Processing and OpenFrameworks Library for spanning graphics applications across multiple screens.
 
   * [Chicago-Brick](https://github.com/google/chicago-brick)
 
-  Google JavaScript Video Wall API
+    Google JavaScript Video Wall API
 
   * [Info-Beamer](https://info-beamer.com/raspberry-pi-digital-signage-magic-video-wall-3028.html)
 
-  Open cloud-based platform for digital signage
+    Open cloud-based platform for digital signage
 
 ---
 
 ### Automatic Calibration
 
-* [TightLight](createdigitalmotion.com/2013/08/tightlight-automatic-3d-mapping-for-anything-touchdesigner-arduino/)
+  * [TightLight](createdigitalmotion.com/2013/08/tightlight-automatic-3d-mapping-for-anything-touchdesigner-arduino/)
 
-Project using Arduino and Derivative TouchDesigner for projection mapping
+    Project using Arduino and Derivative TouchDesigner for projection mapping
 
-* [Structured Light Instructable](www.instructables.com/id/Structured-Light-3D-Scanning/)
+  * [Structured Light Instructable](www.instructables.com/id/Structured-Light-3D-Scanning/)
 
-Instructable about capturing images that can be decoded into a 3D point cloud using a Processing application
+    Instructable about capturing images that can be decoded into a 3D point cloud using a Processing application
 
 ----
 
@@ -288,11 +291,11 @@ Links to helpful repository or API documentation relevant to each field
 #### Processing
   * [deadpixel.keystone](www.deadpixel.ca/keystone/)
 
-  Processing keystoning library. See the [reference manual](https://fh-potsdam.github.io/doing-projection-mapping/processing-keystone/)
+    Processing keystoning library. See the [reference manual](https://fh-potsdam.github.io/doing-projection-mapping/processing-keystone/)
 
   * [Projection Mapping Quickstart in Processing](https://github.com/bsplt/Projection-Mapping-Quickstart-in-Processing)
 
-  GitHub repository with a tool to quickly start projection mapping
+    GitHub repository with a tool to quickly start projection mapping
 
 ---
 
@@ -300,15 +303,15 @@ Links to helpful repository or API documentation relevant to each field
 
   * [Cornerpins and Keystone](https://cycling74.com/forums/cornerpins-and-keystone)
 
-  Historic forum post that covers corner-pinning and key-stoning with Jitter
+    Historic forum post that covers corner-pinning and key-stoning with Jitter
 
   * [jit.gl.slab](https://docs.cycling74.com/max7/maxobject/jit.gl.slab)
 
-  Jitter Object that will come in handy if keystoning.
+    Jitter Object that will come in handy if keystoning.
 
   * [jit.gl.videoplane](https://docs.cycling74.com/max7/maxobject/jit.gl.videoplane )
 
-  Jitter Object that will come in handy if keystoning.
+    Jitter Object that will come in handy if keystoning.
 
 ---
 
@@ -326,5 +329,4 @@ Links to helpful repository or API documentation relevant to each field
 #### ECA
   * [ECA Video Projection Git Repository](https://github.com/Edinburgh-College-of-Art/Video-Projection)
 
-
-  ECA GitHub repository containing examples of how to create custom video projection environments
+    ECA GitHub repository containing examples of how to create custom video projection environments
