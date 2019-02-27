@@ -1,4 +1,4 @@
-# Awesome Edinburgh Audio-Vision
+# Awesome Edinburgh Audio-Vision [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ###### by ECA Digital Development
 A curated list of real-time audio-vision resources.
 
