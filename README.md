@@ -322,7 +322,7 @@ Links to helpful repository or API documentation relevant to each field
 
 #### OpenFrameworks
   * [Mapamok](https://github.com/YCAMInterlab/ProCamToolkit/wiki/mapamok-(English))
-  * [Ycam ProCam Toolkit](createdigitalmotion.com/2012/03/projector-and-camera-a-little-closer-new-magical-mapping-tools-3d-scanning-and-more/)
+  * [Ycam ProCam Toolkit](https://createdigitalmotion.com/2012/03/projector-and-camera-a-little-closer-new-magical-mapping-tools-3d-scanning-and-more/)
 
 ---
 
