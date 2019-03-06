@@ -20,7 +20,7 @@ A curated list of real-time audio-vision resources.
     * [Visual](#visual-1)
   * [Paid](#paid)
     * [General](#general-1)
-    * [Visual](visual-2)
+    * [Visual](#visual-2)
   * [DMX](#dmx)
   * [Video Walls](#video-walls)
   * [Automatic Calibration](#automatic-calibration)
