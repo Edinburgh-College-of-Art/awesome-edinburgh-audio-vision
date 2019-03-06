@@ -254,7 +254,7 @@ Tools you have to pay for, especially if you are short on time.
 
 ### Video Wall
 
-  * [PiWall](https://www.piwall.co.uk)
+  * [PiWall](http://www.piwall.co.uk)
 
     Software to turn a number of Raspberry Pis into a video wall.
 
