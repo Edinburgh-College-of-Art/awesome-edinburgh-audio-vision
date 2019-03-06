@@ -289,7 +289,7 @@ Links to helpful repository or API documentation relevant to each field
 
 ### Visual
 #### Processing
-  * [deadpixel.keystone](https://www.deadpixel.ca/keystone/)
+  * [deadpixel.keystone](http://www.deadpixel.ca/keystone/)
 
     Processing keystoning library. See the [reference manual](https://fh-potsdam.github.io/doing-projection-mapping/processing-keystone/)
 
