@@ -172,7 +172,7 @@ Tools you can use for free, but usually not for profit.
 
     Open source Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime
 
-  * [Touch Designer](www.derivative.ca/)
+  * [Touch Designer](https://www.derivative.ca/)
 
     Visual development platform for realtime projects and rich user experiences
 
@@ -222,7 +222,7 @@ Tools you have to pay for, especially if you are short on time.
 
     MacOS Video DJ software
 
-  * [madmapper](www.madmapper.com/) [35€ Rent, 249€ +tax w/ Education discount]
+  * [madmapper](https://www.madmapper.com/) [35€ Rent, 249€ +tax w/ Education discount]
 
     Video and light mapping tool
 
@@ -254,7 +254,7 @@ Tools you have to pay for, especially if you are short on time.
 
 ### Video Wall
 
-  * [PiWall](www.piwall.co.uk)
+  * [PiWall](https://www.piwall.co.uk)
 
     Software to turn a number of Raspberry Pis into a video wall.
 
@@ -278,7 +278,7 @@ Tools you have to pay for, especially if you are short on time.
 
     Project using Arduino and Derivative TouchDesigner for projection mapping
 
-  * [Structured Light Instructable](www.instructables.com/id/Structured-Light-3D-Scanning/)
+  * [Structured Light Instructable](https://www.instructables.com/id/Structured-Light-3D-Scanning/)
 
     Instructable about capturing images that can be decoded into a 3D point cloud using a Processing application
 
@@ -289,7 +289,7 @@ Links to helpful repository or API documentation relevant to each field
 
 ### Visual
 #### Processing
-  * [deadpixel.keystone](www.deadpixel.ca/keystone/)
+  * [deadpixel.keystone](https://www.deadpixel.ca/keystone/)
 
     Processing keystoning library. See the [reference manual](https://fh-potsdam.github.io/doing-projection-mapping/processing-keystone/)
 
