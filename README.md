@@ -149,26 +149,26 @@ Tools you can use for free, but usually not for profit.
 #### General
    Tools that are relevant for a number of use cases
 
-  * [Openframeworks](openframeworks.cc/)
+  * [Openframeworks](https://openframeworks.cc)
 
     Open source C++ toolkit designed to assist the creative process by providing a simple and intuitive framework for experimentation.    
 
-  * [Cinder](libcinder.org/)
+  * [Cinder](https://libcinder.org)
 
     Open source library for professional-quality creative coding in C++.  
 
-  * [vvvv](vvvv.org/)
+  * [vvvv](https://vvvv.org)
 
     Hybrid visual/textual live-programming environment for audio-visual project prototyping and development.
 
 ---
 
 ### Visual
-  * [Processing](processing.org/)
+  * [Processing](https://processing.org)
 
     Processing is a Java based framework for learning how to code within the context of the visual arts
 
-  * [Syphon](syphon.v002.info/)  
+  * [Syphon](http://syphon.v002.info/)  
 
     Open source Mac OS X technology that allows applications to share frames - full frame rate video or stills - with one another in realtime
 
@@ -184,11 +184,11 @@ Tools you can use for free, but usually not for profit.
 
     A comprehensive software suite for capturing and reconstructing 3D scenes with a camera-projector pair
 
-  * [Painting With Light](pwl.bigfug.com/)
+  * [Painting With Light](http://pwl.bigfug.com/)
 
     Video mapping tool that enables artists of any technical ability to paint with static and moving images through any video projector onto 3D physical objects.
 
-  * [VPT](hcgilje.wordpress.com/vpt/)
+  * [VPT](https://hcgilje.wordpress.com/vpt/)
 
     Multipurpose realtime projection software tool for Mac and Windows
 
@@ -218,7 +218,7 @@ Tools you have to pay for, especially if you are short on time.
 
 #### Visual
 
-  * [Vdmx](vidvox.net/) [$199 w/ Education discount]
+  * [Vdmx](https://vidvox.net/) [$199 w/ Education discount]
 
     MacOS Video DJ software
 
@@ -226,11 +226,11 @@ Tools you have to pay for, especially if you are short on time.
 
     Video and light mapping tool
 
-  * [Dynamapper](dynamapper.net/) [$4.99]
+  * [Dynamapper](https://dynamapper.net/) [$4.99]
 
     Projection mapping tool
 
-  * [SPARCK](tecartlab.com/licenses/) [6 Months Free: €125 per year]
+  * [SPARCK](https://tecartlab.com/licenses/) [6 Months Free: €125 per year]
 
     Node based video composition tool
 
@@ -274,7 +274,7 @@ Tools you have to pay for, especially if you are short on time.
 
 ### Automatic Calibration
 
-  * [TightLight](createdigitalmotion.com/2013/08/tightlight-automatic-3d-mapping-for-anything-touchdesigner-arduino/)
+  * [TightLight](https://createdigitalmotion.com/2013/08/tightlight-automatic-3d-mapping-for-anything-touchdesigner-arduino/)
 
     Project using Arduino and Derivative TouchDesigner for projection mapping
 
@@ -316,7 +316,7 @@ Links to helpful repository or API documentation relevant to each field
 ---
 
 #### vvvv
-  * [How to project on 3D Geometry](vvvv.org/documentation/how-to-project-on-3d-geometry)
+  * [How to project on 3D Geometry](https://www.vvvv.org/documentation/how-to-project-on-3d-geometry)
 
 ---
 
