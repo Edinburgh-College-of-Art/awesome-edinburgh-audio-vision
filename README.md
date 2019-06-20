@@ -256,7 +256,7 @@ Tools you have to pay for, especially if you are short on time.
 
   * [PiWall](http://www.piwall.co.uk)
 
-    Software to turn a number of Raspberry Pis into a video wall.
+    Software to turn a number of Raspberry Pis into a video wall. Check out the [ECA Piwall repo](https://github.com/Edinburgh-College-of-Art/piwall-setup) and this gist on [syncing multiple videos](https://gist.github.com/mhamilt/86bba01865c9918b00b8d80eb839f00f)
 
   * [Most Pixels Ever](https://github.com/shiffman/Most-Pixels-Ever-Processing)
 
